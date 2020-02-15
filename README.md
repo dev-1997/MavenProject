@@ -1,1 +1,1 @@
-maven project demos
+Maven Project Demo
